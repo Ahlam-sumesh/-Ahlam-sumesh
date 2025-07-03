@@ -9,6 +9,7 @@ With 12+ years of experience, I work on system-level programming using C and Pyt
 - Real-time system interaction (e.g., STM32 + Phytech board)
 - Python and C-based utility tools
 - Debugging and troubleshooting low-level issues
+- GPS UART data capturing
 
 🌱 **Currently Exploring:**
 - Backend development with Python
